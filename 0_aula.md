@@ -9,7 +9,7 @@ A memória é organizada por segmentos de 64k. Os segmentos se sobrepõem, inici
 
 endereço_efetivo = (segmento * 16) + OFFSET
 
-**Endereços de memória podes ser escritos de diversas formas devido as sobreposições**
+**Endereços de memória podem ser escritos de diversas formas devido as sobreposições dos segmentos**
 
 Exemplo, o endereço de memória 0:13Ah pode também ser escrito:
 
