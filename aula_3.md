@@ -1,6 +1,6 @@
-3. Instruções
+# Instruções
 
-Tipos de instruções:
+## Tipos de instruções:
 
 1. Aritiméticas
 2. Lógicas
