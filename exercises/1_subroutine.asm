@@ -9,6 +9,7 @@ mov [0x04], take_int01
 mov [0x06], cs
 pop ds
 
+; Se inserir int 0x00 o processo é interrompido
 int 0x01
 
 ret
