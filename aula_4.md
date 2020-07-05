@@ -9,3 +9,5 @@
 - I. Interrupted enabled Flag
 - D. direction
 - O. Overflow
+
+Ocorrem quando, por exemplo,  é o usado o CMP (compare), ao comparar dois valores, é necessário distribuir flags para que o fluxo correto seja gerado.
